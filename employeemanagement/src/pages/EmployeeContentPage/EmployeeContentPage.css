@@ -1,0 +1,21 @@
+.employeeContentPage{
+    /* width: 80%; */
+    margin-top: 20px;
+}
+.employeeContentPage_header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.employeeContentPage_header_title{
+    padding-left: 20px;
+}
+.employeeContentPage_header_actions{
+    
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-right: 20px;
+}

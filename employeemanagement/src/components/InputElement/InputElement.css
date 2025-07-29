@@ -1,0 +1,9 @@
+.input-element{
+    width: 35%;
+    height: 55px;
+    padding: 0px 13px;
+    border: 1px solid #DEDEDE;
+    border-radius: 12px;
+    font-size: 14px;
+    outline: none;
+}

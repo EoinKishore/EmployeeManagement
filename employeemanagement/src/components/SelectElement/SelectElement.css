@@ -1,0 +1,16 @@
+.select-element {
+    width: 35%;
+    height: 55px;
+    padding: 0px 13px;
+    border: 1px solid #DEDEDE;
+    border-radius: 12px;
+    font-size: 14px;
+    outline: none;
+    appearance: none; /* Removes default system styling */
+    background-color: white;
+    color: #333;
+    cursor: pointer;
+}
+.select-element{
+    padding-right: 35px;
+}
